@@ -21,14 +21,12 @@
     "express-rate-limit": "^6.10.0",
     "joi": "^17.9.2",
     "nodemailer": "^6.9.4",
-    "puppeteer": "^21.0.3",
+  
     "express-validator": "^7.0.1",
     "moment": "^2.29.4"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1",
-    "jest": "^29.6.2",
-    "supertest": "^6.3.3"
+    "nodemon": "^3.0.1"
   },
   "keywords": ["education", "NBA", "course-management", "accreditation"],
   "author": "Shivam Patel, Rajat Agrawal",
